@@ -1,0 +1,3 @@
+# React useEffect Unexpected Behavior
+
+This repository demonstrates a common issue encountered when using the `useEffect` hook in React.  The provided code shows how a seemingly simple state update can lead to unexpected re-renders and inefficient behavior if the dependencies array is not correctly managed.  The solution showcases best practices for using `useEffect` to prevent unnecessary re-renders.
